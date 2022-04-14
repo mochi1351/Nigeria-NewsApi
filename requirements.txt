@@ -8,6 +8,7 @@ celery
 aiofiles
 redis
 cassandra-driver
+pydantic
 dateparser
 pandas
 requests_html
